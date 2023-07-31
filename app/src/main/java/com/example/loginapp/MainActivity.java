@@ -12,8 +12,6 @@ import com.example.loginapp.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
-    private EditText editTextFirstName, editTextLastName, editTextEmail, editTextPassword;
-    private Button buttonSubmit;
     private ActivityMainBinding binding;
 
     @Override
